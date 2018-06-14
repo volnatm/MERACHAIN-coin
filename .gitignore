@@ -1,7 +1,7 @@
 src/*.exe
-src/bitconnect
-src/bitconnectd
-src/test_bitconnect
+src/merachain 
+src/merachain
+src/test_merachain
 src/build.h
 .*.swp
 *.*~*
